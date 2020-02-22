@@ -13,3 +13,5 @@ Creating custom LinkedList data structure
 # Output
 
 ![](Images/Output.PNG)
+
+For more information look at the src folder
